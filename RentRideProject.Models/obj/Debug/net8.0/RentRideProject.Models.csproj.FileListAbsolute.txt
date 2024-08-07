@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\bin\Debug\net8.0\RentRideProject.Models.deps.json
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\bin\Debug\net8.0\RentRideProject.Models.dll
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\bin\Debug\net8.0\RentRideProject.Models.pdb
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.dll
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\refint\RentRideProject.Models.dll
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\RentRideProject.Models.pdb
+C:\Users\Admin\Desktop\RentRideProject\RentRideProject.Models\obj\Debug\net8.0\ref\RentRideProject.Models.dll
