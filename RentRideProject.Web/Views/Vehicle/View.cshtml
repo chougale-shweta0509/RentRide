@@ -1,0 +1,77 @@
+﻿@using RentRideProject.Web.Models.ViewModels.Vehicle;
+@model ListVehicleViewModel
+@{
+    ViewData["Title"] = "List of Vehicles";
+}
+
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">List of Vehicle</li>
+        </ol>
+    </nav>
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">List of Vehicles</h5>
+            <h5 class="card-title">
+                <a asp-action="Create" asp-controller="Vehicle" class="btn btn-success">Add</a>
+            </h5>
+            <form method="get" action="">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" name="searchingText" value="@Model.SearchingText" placeholder="Search Vehicles" />
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit">Search</button>
+                    </div>
+                </div>
+            </form>
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Vehicle Name</th>
+                        <th>Vehicle Type</th>
+                        <th>Vehicle Model</th>
+                        <th>Vehicle Number</th>
+                        <th>Vehicle Color</th>
+                        <th>Vehicle Description</th>
+                        <th>Vehicle Image</th>
+                        <th>Vehicle Price</th>
+                        <th>Is Available</th>
+                        <th>Is Deleted</th>
+                        <th>Created At</th>
+                        <th>Updated At</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var vehicle in Model.VehicleList)
+                    {
+                        <tr>
+                            <td>@vehicle.VehicleName</td>
+                            <td>@vehicle.VehicleType</td>
+                            <td>@vehicle.VehicleModel</td>
+                            <td>@vehicle.VehicleNumber</td>
+                            <td>@vehicle.VehicleColor</td>
+                            <td>@vehicle.VehicleDescription</td>
+                            <td>
+                                <img src="@vehicle.VehicleImage" alt="Vehicle Image" style="max-width:100px; max-height:100px;" />
+                            </td>
+                            <td>@vehicle.VehiclePrice.ToString("C")</td>
+                            <td>@vehicle.IsAvailable</td>
+                            <td>@vehicle.IsDeleted</td>
+                            <td>@vehicle.CreatedAt.ToString("g")</td>
+                            <td>@vehicle.UpdatedAt?.ToString("g")</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@vehicle.Id" class="btn btn-primary btn-sm">Edit</a>
+                                <a asp-action="Details" asp-route-id="@vehicle.Id" class="btn btn-info btn-sm">Details</a>
+                                <a asp-action="Delete" asp-route-id="@vehicle.Id" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

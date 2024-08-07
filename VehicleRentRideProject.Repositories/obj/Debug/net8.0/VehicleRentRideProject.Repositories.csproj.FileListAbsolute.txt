@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\bin\Debug\net8.0\VehicleRentRideProject.Repositories.deps.json
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\bin\Debug\net8.0\VehicleRentRideProject.Repositories.dll
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\bin\Debug\net8.0\VehicleRentRideProject.Repositories.pdb
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\bin\Debug\net8.0\RentRideProject.Models.dll
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\bin\Debug\net8.0\RentRideProject.Models.pdb
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleR.C9F40EC1.Up2Date
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.dll
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\refint\VehicleRentRideProject.Repositories.dll
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\VehicleRentRideProject.Repositories.pdb
+C:\Users\Admin\Desktop\RentRideProject\VehicleRentRideProject.Repositories\obj\Debug\net8.0\ref\VehicleRentRideProject.Repositories.dll
